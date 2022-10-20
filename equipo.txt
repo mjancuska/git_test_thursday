@@ -1,0 +1,3 @@
+Fichero compartido
+linea dos
+linea tres
