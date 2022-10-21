@@ -1,4 +1,6 @@
 Fichero compartido
 linea dos
 linea tres
-Cambio añadido por Armando
+cambio de Marek
+cambio de Armando
+otro cambio de Marek
